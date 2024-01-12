@@ -1,0 +1,32 @@
+{
+	padding: 0;
+	margin: 0;
+}
+body
+{
+font-family: 'Poppins', sans-serif;
+}
+.navbar{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding:10px;
+	
+}
+p.navbar-link{
+	text-align: left;
+}
+.navbar-links{
+	display:flex;
+	column-gap:20px;
+ }
+	.navbar-links a{
+		text-decoration: none;
+		color: #1D232C;
+	}
+.navbar-links a:hover{
+	text-decoration: none;
+		color: #1D232C;
+}
+
+	
